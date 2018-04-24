@@ -1,7 +1,7 @@
 # Gallery
-=====
-一个可以产看并下载图片的App
-------------
+---------
+一个可以查看并下载图片的App
+---------
 使用volley进行网络请求。
 使用JSONObject进行的json数据的解析。
 从flichr网站获取图片，之后使用glide加载到recyclerView上的,recyclerView使用的瀑布流布局，
